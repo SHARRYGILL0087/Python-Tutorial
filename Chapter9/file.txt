@@ -1,0 +1,6 @@
+Sharry is a good boy.
+I am a second line.
+I love programming.
+I love Python.
+I love JavaScript.
+I love C++.
